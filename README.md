@@ -155,7 +155,7 @@ for line in data:
     if n==1:
         break
 ```
-[INSERT TABLE HERE]
+![Image of Chart](https://github.com/stegs2/IA626_Taxi_Project/blob/master/Field%20Names.PNG)
 
 #### Column Names:
 - *dropoff_datetime:* date and time drop off occurred
@@ -272,7 +272,7 @@ my_map
     ['40.773724', '9.6999996E-5'] 
      ['40.773724', '-73.968491']
 
-[INSERT IMAGE HERE]
+![Map](https://github.com/stegs2/IA626_Taxi_Project/blob/master/map.PNG)
 
 
 
@@ -591,7 +591,7 @@ plot1
 ```
 
 
-![png](output_30_0.png)
+![chart1](https://github.com/stegs2/IA626_Taxi_Project/blob/master/chart1.PNG)
 
 
 
@@ -866,7 +866,7 @@ plot3
 ```
 
 
-![png](output_39_0.png)
+![combined chart](https://github.com/stegs2/IA626_Taxi_Project/blob/master/chart2.PNG)
 
 
 
